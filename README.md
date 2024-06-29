@@ -1,5 +1,3 @@
-# S-P-500-Index-Trend-Prediction
-
 # Predicting S&P 500 Closing Prices
 
 This repository contains code and analysis for predicting the closing price of the S&P 500 index using various machine learning models.
